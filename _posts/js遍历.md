@@ -175,4 +175,3 @@ console.log( arr.every( function( item, index, array ){
 // false
 ```
 
-
